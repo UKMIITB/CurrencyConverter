@@ -20,6 +20,7 @@ To avoid overusage of hitting API endpoints, there is a inbuilt time restriction
 8. Coroutines
 9. Flow
 10. MutableStates & SharedStates
+11. Unit Test for Coroutine, Flow, Retrofit Response
 
 # Demo of App
 
